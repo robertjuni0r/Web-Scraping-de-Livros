@@ -2,7 +2,7 @@
 
 > Projeto criado para realizar o scraping de uma página de livros, e exportar o resultado pra Excel. 
 
-<h3 align="left">🛠 Lingugens Usadas:</h3>
+<h3 align="left">🛠 Linguagens Usadas:</h3>
 
 <!-- Python -->
 <a href="https://telegram.org/" target="_blank">
